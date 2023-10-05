@@ -1,2 +1,3 @@
 # silver-train
-Hello world! 
+Hello world!
+Клонировали.
