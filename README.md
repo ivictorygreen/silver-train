@@ -1,4 +1,6 @@
 # silver-train
 Hello world! 
 
-Не отчаивайся!
+Hello silver-train!!!
+Hello bronze-train!!!
+Hello gold-train!!!
