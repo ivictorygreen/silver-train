@@ -1,4 +1,4 @@
 # silver-train
 Hello world! 
 
-Не отчаивайся!
+Не отчаивайся! BE HAPPY!
