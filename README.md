@@ -1,4 +1,4 @@
 # silver-train
 Hello world! 
 
-Не отчаивайся!
+Hello silver-train! (git lesson 3)
